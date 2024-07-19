@@ -1,6 +1,6 @@
 {
-  "name": "react-native-phone-hint",
-  "version": "0.2.0",
+  "name": "@bpm-sekeh/react-native-phone-hint",
+  "version": "1.0.0",
   "description": "Phone Hint API for react-native",
   "main": "lib/commonjs/index",
   "module": "lib/module/index",
@@ -39,13 +39,13 @@
     "react-native",
     "android"
   ],
-  "repository": "https://github.com/gur22-09/react-native-phone-hint",
-  "author": "Gurprit Singh <gurprit.pendragon@gmail.com> (https://github.com/gur22-09)",
-  "license": "MIT",
-  "bugs": {
-    "url": "https://github.com/gur22-09/react-native-phone-hint/issues"
+  "repository": "https://github.com/bpm-sekeh/react-native-phone-hint",
+  "author": {
+    "name": "Ahmadreza Salehvand",
+    "email": "ahmadreza.salehvand@outlook.com"
   },
-  "homepage": "https://github.com/gur22-09/react-native-phone-hint#readme",
+  "license": "MIT",
+  "homepage": "https://github.com/bpm-sekeh/react-native-phone-hint#readme",
   "publishConfig": {
     "registry": "https://registry.npmjs.org/"
   },
